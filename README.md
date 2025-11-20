@@ -9,7 +9,6 @@ This repository contains lab exercises with modified functions and added cells.
 
 ## Contents
 - Python and Jupyter Notebook files with edits
-- README.md for description
 
 ## How to Run
 - Open and run the code files. Comments explain the changes and functionality.
